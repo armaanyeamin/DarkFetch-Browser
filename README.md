@@ -1,15 +1,13 @@
-# DarkFetch-Browser
-DarkFetch-Browser/
-│
-├── app/
-│   ├── src/main/
-│   │   ├── java/com/darkfetch/browser/
-│   │   │   ├── MainActivity.kt
-│   │   │   └── HistoryActivity.kt
-│   │   ├── res/layout/
-│   │   │   └── activity_main.xml
-│   │   └── AndroidManifest.xml
-│
-├── build.gradle
-├── settings.gradle
-└── README.md
+#DarkFetch-Browser
+
+Android HD Video Downloader with Ad Blocking
+
+Features:
+- Built-in ad blocking browser
+- HD video download
+- Quality selector
+- Private browsing
+- Download history
+- Dark mode
+- No ads
+
